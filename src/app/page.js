@@ -1,7 +1,10 @@
+import Form from "@/components/translate";
+
 export default function Home() {
   return (
-    <main>
-      <h1>hello</h1>
-    </main>
+    <>
+      <h1>hello i translate code to c++</h1>
+      <Form />
+    </>
   );
 }
